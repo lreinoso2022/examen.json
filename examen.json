@@ -1,0 +1,55 @@
+{
+ "valores":[
+  {
+  "x":1000,
+  "y":300,
+  "intensidad": 5
+  }
+ ,{
+   "x":5,
+  "y":45,
+  "intensidad": 10
+   },{
+  "x":10,
+  "y":30,
+  "intensidad": 4
+  },{
+   "x":50,
+  "y":40,
+  "intensidad": 22
+   },{
+  "x":1,
+  "y":3,
+  "intensidad": 36
+  },{
+   "x":40,
+  "y":10,
+  "intensidad": 88
+   },{
+  "x":80,
+  "y":10,
+  "intensidad": 32
+  },{
+   "x":50,
+  "y":45,
+  "intensidad": 100
+   },{
+  "x":15,
+  "y":35,
+  "intensidad": 32
+  },{
+   "x":56,
+  "y":70,
+  "intensidad": 70
+   },{
+  "x":14,
+  "y":13,
+  "intensidad": 78
+  },{
+   "x":35,
+  "y":13,
+  "intensidad": 100
+   }
+
+]
+}
