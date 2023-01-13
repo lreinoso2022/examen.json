@@ -1,0 +1,12 @@
+{
+	"animales":[{ 
+		"x": 1000, "grupo": "aguilas" 
+		},{ 
+		"x": 2000, "grupo": "perros" 
+		},{ 
+		"x": 3000, "grupo": "gatos" 
+		},{ 
+		"x": 4000, "grupo": "leones" 
+		},
+	]
+}
